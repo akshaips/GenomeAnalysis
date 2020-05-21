@@ -1,0 +1,8 @@
+organism: Leptospirillum ferrooxidans strain 
+contigs: 1
+bases: 2559538
+CDS: 2446
+gene: 2510
+misc_RNA: 12
+tRNA: 51
+tmRNA: 1
