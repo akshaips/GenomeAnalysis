@@ -1,0 +1,6 @@
+,condition,type
+C1,bioreactor,Paired_end
+BM1,Mineral_leaching,Paired_end
+BM2,Mineral_leaching,Paired_end
+C2,bioreactor,Paired_end
+C3,bioreactor,Paired_end
