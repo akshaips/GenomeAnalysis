@@ -1,8 +1,3 @@
- 
-# R script for doing the RNA expression analysis
-# Requires having made two files, count_table.csv with the counts for each gene in each condition and
-# column_data.csv with information on each condition.  For plotting the results, you also need the plot_table file. 
-
 library(DESeq2)
 library(ggplot2)
 
